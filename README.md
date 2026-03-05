@@ -152,5 +152,5 @@ See the `LICENSE` file for more information.
 ---
 
 <p align="center">
-  <b>FamSync AI | 2026 | Sheikh Naim | triOS College</b>
+  <b>FamSync AI | 2026 | Developed by Sheikh Naim > Mobile Web Developer Using AI student @ triOS College</b>
 </p>
