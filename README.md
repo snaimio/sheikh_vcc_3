@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=FAM+SYNC+AI;INTELLIGENT+HOUSEHOLD+SYNC;POWERED+BY+MACHINE+LEARNING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=FAMSYNC+AI;INTELLIGENT+HOUSEHOLD+SYNC;POWERED+BY+MACHINE+LEARNING" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🛰️ FamSync AI</h1>
