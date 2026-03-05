@@ -134,8 +134,8 @@ We value community innovation! To contribute:
 
 ## License
 
-This project is released under the **MIT License**.  
-See the `LICENSE` file for more information.
+This project is released under the [MIT License](LICENSE).
+See the [LICENSE](LICENSE) file for more information.
 
 ---
 
