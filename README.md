@@ -11,8 +11,6 @@
   <strong>A smart digital assistant designed to help families organize schedules, tasks, and daily routines through predictive intelligence.</strong>
 </p>
 
->💡 **Mission:** "Technology should support families, not complicate their lives."
-
 ---
 
 ## Overview
