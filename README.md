@@ -15,21 +15,6 @@
 
 ---
 
-## 🧭 Navigation
-
-- [🛰️ Overview](#overview)
-- [⚡ Key Features](#key-features)
-- [🛠️ Technology Stack](#technology-stack)
-- [📱 Project Preview](#project-preview)
-- [🚀 Installation](#installation)
-- [📖 Usage](#usage)
-- [🗺️ Roadmap](#roadmap)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
-- [👨‍💻 Author](#author)
-
----
-
 ## Overview
 
 **FamSync AI** is a digital planning system designed to help modern families stay organized.  
