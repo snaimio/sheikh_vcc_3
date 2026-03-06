@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=FamSync+AI;INTELLIGENT+HOUSEHOLD+ORGANIZER;POWERED+BY+MACHINE+LEARNING" alt="Typing SVG" />
-</p>
-
 <h1 align="center">🤖 FamSync AI</h1>
 
 <p align="center">
@@ -14,6 +10,13 @@
   <img src="https://img.shields.io/badge/DATABASE-REALTIME%20SYNC-ff8c00?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/LICENSE-MIT-purple?style=for-the-badge" />
 </p>
+
+<p align="center">
+Welcome to the official **FamSync AI Wiki**, your central hub for all documentation, guides, and technical resources.  
+**FamSync AI** transforms traditional family planners into a proactive, intelligent household ecosystem. 
+</p>
+
+>💡 **Mission:** "Technology should support families, not complicate their lives."
 
 ---
 
