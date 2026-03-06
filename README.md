@@ -1,10 +1,6 @@
 <h1 align="center">🤖 FamSync AI</h1>
 
 <p align="center">
-  <strong>A smart digital assistant designed to help families organize schedules, tasks, and daily routines through predictive intelligence.</strong>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/INTELLIGENCE-NEURAL-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/PLATFORM-MOBILE%20WEB-28a745?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/DATABASE-REALTIME%20SYNC-ff8c00?style=for-the-badge&logo=icloud&logoColor=white" />
@@ -12,8 +8,7 @@
 </p>
 
 <p align="center">
-Welcome to the official **FamSync AI Wiki**, your central hub for all documentation, guides, and technical resources.  
-**FamSync AI** transforms traditional family planners into a proactive, intelligent household ecosystem. 
+  <strong>A smart digital assistant designed to help families organize schedules, tasks, and daily routines through predictive intelligence.</strong>
 </p>
 
 >💡 **Mission:** "Technology should support families, not complicate their lives."
